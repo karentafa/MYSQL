@@ -1,5 +1,5 @@
 /*
-Assignment 1 PART 1, ATTEMPT 1
+Exploring Databases
 */
 
 use karentaf_assign1_sakila;
